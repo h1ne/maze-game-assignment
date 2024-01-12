@@ -11,7 +11,8 @@ public class MoveChara {
 
     private final String[] directions = { "Down", "Left", "Right", "Up" };
     private final String[] animationNumbers = { "1", "2", "3" };
-    private final String pngPathPre = "png/cat";
+    // private final String pngPathPre = "png/cat";
+    private final String pngPathPre = "png/shizuppy";
     private final String pngPathSuf = ".png";
 
     private int posX;
